@@ -1,0 +1,18 @@
+{
+  "name": "jest-strip-styled-components",
+  "version": "1.0.0",
+  "description": "Jest serializer to strip Styled Components",
+  "main": "./src/index.js",
+  "files": [
+    "src"
+  ],
+  "repository": "git@github.com:Jasperrr91/jest-strip-styled-components.git",
+  "bugs": {
+    "url": "https://github.com/Jasperrr91/jest-strip-styled-components/issues"
+  },
+  "author": "Jasper van der Stoop",
+  "license": "MIT",
+  "peerDependencies": {
+    "styled-components": ">= 5"
+  }
+}
