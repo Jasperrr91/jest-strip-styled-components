@@ -6,7 +6,10 @@
   "files": [
     "src"
   ],
-  "repository": "git@github.com:Jasperrr91/jest-strip-styled-components.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Jasperrr91/jest-strip-styled-components.git"
+  },
   "bugs": {
     "url": "https://github.com/Jasperrr91/jest-strip-styled-components/issues"
   },
@@ -14,5 +17,23 @@
   "license": "MIT",
   "peerDependencies": {
     "styled-components": ">= 5"
-  }
+  },
+  "homepage": "https://github.com/Jasperrr91/jest-strip-styled-components#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "styled",
+    "components",
+    "jest",
+    "snapshot",
+    "serializer",
+    "jest",
+    "serializer",
+    "strip",
+    "styled",
+    "components"
+  ]
 }
